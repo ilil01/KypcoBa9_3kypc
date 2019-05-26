@@ -1,0 +1,5 @@
+Brox,9
+Inlaeria,10
+Syndarinn,6
+Aibar,9
+droptop,7

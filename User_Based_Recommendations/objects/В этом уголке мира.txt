@@ -1,0 +1,3 @@
+Barsyanka,10
+R1ona,6
+droptop,9

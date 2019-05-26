@@ -1,0 +1,6 @@
+Alfini,8
+Etir,9
+SThorn,8
+Menelaus,10
+Ryouta,10
+droptop,8

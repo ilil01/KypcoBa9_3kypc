@@ -1,0 +1,5 @@
+Alfini,7
+Dragosha,10
+GreyKing,10
+droptop,9
+Hazardjee,9

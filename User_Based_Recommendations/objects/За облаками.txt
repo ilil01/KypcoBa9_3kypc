@@ -1,0 +1,6 @@
+Brox,6
+GreyKing,8
+Umeko,10
+Barsyanka,9
+SThorn,7
+Inlaeria,10

@@ -1,0 +1,5 @@
+Alfini,5
+Dragosha,10
+GreyKing,7
+R1ona,5
+Syndarinn,6

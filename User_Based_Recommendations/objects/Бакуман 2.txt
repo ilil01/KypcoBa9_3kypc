@@ -1,0 +1,4 @@
+GreyKing,10
+Umeko,10
+Syndarinn,10
+Menelaus,8

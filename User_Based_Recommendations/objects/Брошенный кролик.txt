@@ -1,0 +1,5 @@
+Tailenders,10
+GreyKing,8
+SThorn,10
+Syndarinn,8
+droptop,9
