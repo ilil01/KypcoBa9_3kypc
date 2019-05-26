@@ -1,0 +1,2 @@
+/?go=user&uid=2234:9
+/?go=user&uid=79940:10

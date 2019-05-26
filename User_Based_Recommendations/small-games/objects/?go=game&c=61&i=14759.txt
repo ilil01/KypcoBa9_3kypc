@@ -1,0 +1,15 @@
+/?go=user&uid=7440:10
+/?go=user&uid=123056:10
+/?go=user&uid=114613:10
+/?go=user&uid=96785:10
+/?go=user&uid=168255:5
+/?go=user&uid=17929:1
+/?go=user&uid=133098:10
+/?go=user&uid=156899:10
+/?go=user&uid=116081:10
+/?go=user&uid=39002:10
+/?go=user&uid=43984:10
+/?go=user&uid=12708:9
+/?go=user&uid=138678:10
+/?go=user&uid=148111:1
+/?go=user&uid=22934:10

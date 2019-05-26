@@ -1,0 +1,11 @@
+?go=game&c=79&i=23857:10
+?go=game&c=4&i=24013:10
+?go=game&c=79&i=20745:10
+?go=game&c=13&i=24556:10
+?go=game&c=13&i=21324:10
+?go=game&c=13&i=22579:10
+?go=game&c=16&i=6198:10
+?go=game&c=8&i=26443:10
+?go=game&c=10&i=17847:10
+?go=game&c=61&i=18408:10
+?go=game&c=2&i=19230:10

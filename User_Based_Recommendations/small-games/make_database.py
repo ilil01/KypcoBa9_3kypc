@@ -21,7 +21,7 @@ objects_prefix = './objects/'
 
 users_list = []
 
-all_users = open(users_prefix + 'all.txt', 'w')
+all_users = open(users_prefix + 'all.txt', 'a')
 all_objects = open(objects_prefix + 'all.txt', 'r')
 
 print ('Skipping already done links')
@@ -57,30 +57,47 @@ print ('Logged in, start downloading')
 
 for line in src:
     print ('Getting access to ' + line)
-    r = s.get(line)
+    try:
+        r = s.get(line)
+    except requests.exceptions.ConnectionError:
+        print ('Failure, trying another time')
+        r = s.get(line)
     print ('Success')
     bs = BeautifulSoup(r.text, 'lxml')
     t = bs.find('div', attrs = {'class' : 'sp'})
+    if t == None:
+        continue
+    if not 'Игре' in t.get('title'):
+        continue
     voted = [a.get('href') for a in t.find_all('a')]
     marks = t.get_text().split(' - ')[1:]
+#    print (marks)
+#    print ('***')
     for i in range(len(marks)):
-        marks[i] = marks[i].split(' ')[-1]
+#        marks[i] = marks[i].split(' ')[-1]
         marks[i] = marks[i][:2] if marks[i][1].isdigit() else marks[i][0]
-    print(voted)
-    print(marks)
+#    print(voted)
+#    print(marks)
     obj_name = line.split('/')[-1][:-1]
+
 #    print (obj_name)
 #    print (obj_name[:-1]) actual name
 #    print (obj_name[:-2])
 #    raise Exception ('end')
 #    obj_file = open(objects_prefix + line[:-1] + '.txt', 'w')
+
     obj_file = open(objects_prefix + obj_name + '.txt', 'w')
     for i in range(len(voted)):
         if not voted[i] in users_list:
             users_list.append(voted[i])
             all_users.write(voted[i] + '\n')
         user_file = open(users_prefix + voted[i] + '.txt', 'a')
-        user_file.write(obj_name + ':' + marks[i] + '\n')
+        try:
+            user_file.write(obj_name + ':' + marks[i] + '\n')
+        except Exception as e:
+            print (voted)
+            print (marks)
+            raise e
         user_file.close()
         obj_file.write(voted[i] + ':' + marks[i] + '\n')
     obj_file.close()

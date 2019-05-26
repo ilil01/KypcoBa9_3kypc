@@ -1,0 +1,7 @@
+?go=game&c=5&i=14182:10
+?go=game&c=80&i=16797:10
+?go=game&c=80&i=16797:10
+?go=game&c=79&i=21192:10
+?go=game&c=5&i=20094:10
+?go=game&c=4&i=17599:10
+?go=game&c=5&i=17875:10

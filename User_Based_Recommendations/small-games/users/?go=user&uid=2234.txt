@@ -1,0 +1,17 @@
+?go=game&c=5&i=25431:9
+?go=game&c=5&i=25431:9
+?go=game&c=61&i=13073:9
+?go=game&c=61&i=25519:10
+?go=game&c=61&i=13073:9
+?go=game&c=61&i=25519:10
+?go=game&c=61&i=25519:10
+?go=game&c=61&i=25519:10
+?go=game&c=16&i=26742:9
+?go=game&c=61&i=14940:9
+?go=game&c=61&i=17395:10
+?go=game&c=4&i=26816:9
+?go=game&c=5&i=26656:9
+?go=game&c=2&i=20257:10
+?go=game&c=5&i=17576:10
+?go=game&c=6&i=13818:10
+?go=game&c=3&i=10845:10

@@ -1,0 +1,6 @@
+?go=game&c=9&i=11149:10
+?go=game&c=2&i=17828:10
+?go=game&c=79&i=16023:6
+?go=game&c=61&i=14759:10
+?go=game&c=3&i=10615:10
+?go=game&c=80&i=18478:10
