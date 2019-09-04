@@ -1,0 +1,9 @@
+1012 users
+656 items
+expected 102 users clusters
+expected 66 items clusters
+
+import bbac
+>>> bbac.get_init_clusters(1012, 656)
+>>> a = bbac.BBAC(1012, 656, 102, 66)
+>>> a.init_characteristics()

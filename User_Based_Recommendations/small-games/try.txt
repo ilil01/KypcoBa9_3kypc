@@ -1,3 +1,5 @@
 abc\
 def
 ghj
+it works as expected
+of course new line is dded beforebut in case that file was opened multiple times during one session it is another story

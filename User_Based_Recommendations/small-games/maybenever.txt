@@ -1,0 +1,30 @@
+# We have in clusters/[users/, objects/] for every cluster list of who belongs to it
+# Algorithm for recommendation:
+#   0) Initiate for-use profiles: for every user generate list consisting of its cluster and its average marks in every object cluster
+#   1) 
+
+############33
+ython 3.5.3 (default, Sep 27 2018, 17:25:39) 
+[GCC 6.3.0 20170516] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import bbac
+>>> a = bbac.BBAC(1012, 656, 102, 66)
+>>> a.algorithm()
+^CTraceback (most recent call last):
+      File "<stdin>", line 1, in <module>
+        File "/home/ilil01/University/KypcoBa9/User_Based_Recommendations/small-games/bbac.py", line 382, in algorithm
+            while self.run():
+                  File "/home/ilil01/University/KypcoBa9/User_Based_Recommendations/small-games/bbac.py", line 322, in run
+                      tmp = self.quality(u, True, j)
+                        File "/home/ilil01/University/KypcoBa9/User_Based_Recommendations/small-games/bbac.py", line 288, in quality
+                            bc = self.get_cluster(i, not isUser)
+                              File "/home/ilil01/University/KypcoBa9/User_Based_Recommendations/small-games/bbac.py", line 268, in get_cluster
+                                  f = open(path + str(i) + '.txt', 'r')
+                                    File "/usr/lib/python3.5/_bootlocale.py", line 23, in getpreferredencoding
+                                        def getpreferredencoding(do_setlocale=True):
+                                            KeyboardInterrupt
+                                            >>> 
+############33
+
+
+
