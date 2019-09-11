@@ -1,0 +1,2014 @@
+User №0:
+	568
+User №1:
+	User №1 cannot be recommended by that method
+User №2:
+	{505: 0, 623: 0}
+User №3:
+	89
+User №4:
+	User №4 cannot be recommended by that method
+User №5:
+	132
+User №6:
+	36
+User №7:
+	User №7 cannot be recommended by that method
+User №8:
+	User №8 cannot be recommended by that method
+User №9:
+	325
+User №10:
+	User №10 cannot be recommended by that method
+User №11:
+	User №11 cannot be recommended by that method
+User №12:
+	89
+User №13:
+	User №13 cannot be recommended by that method
+User №14:
+	User №14 cannot be recommended by that method
+User №15:
+	0
+User №16:
+	User №16 cannot be recommended by that method
+User №17:
+	User №17 cannot be recommended by that method
+User №18:
+	{400: 0, 307: 0, 292: 0, 229: 0, 518: 0, 76: 0}
+User №19:
+	132
+User №20:
+	User №20 cannot be recommended by that method
+User №21:
+	132
+User №22:
+	518
+User №23:
+	132
+User №24:
+	48
+User №25:
+	80
+User №26:
+	User №26 cannot be recommended by that method
+User №27:
+	48
+User №28:
+	User №28 cannot be recommended by that method
+User №29:
+	User №29 cannot be recommended by that method
+User №30:
+	48
+User №31:
+	User №31 cannot be recommended by that method
+User №32:
+	{302: 0}
+User №33:
+	227
+User №34:
+	User №34 cannot be recommended by that method
+User №35:
+	48
+User №36:
+	48
+User №37:
+	User №37 cannot be recommended by that method
+User №38:
+	User №38 cannot be recommended by that method
+User №39:
+	48
+User №40:
+	User №40 cannot be recommended by that method
+User №41:
+	{505: 0, 623: 0, 255: 0}
+User №42:
+	48
+User №43:
+	48
+User №44:
+	325
+User №45:
+	User №45 cannot be recommended by that method
+User №46:
+	User №46 cannot be recommended by that method
+User №47:
+	User №47 cannot be recommended by that method
+User №48:
+	48
+User №49:
+	0
+User №50:
+	User №50 cannot be recommended by that method
+User №51:
+	48
+User №53:
+	132
+User №54:
+	User №54 cannot be recommended by that method
+User №55:
+	48
+User №56:
+	48
+User №57:
+	0
+User №58:
+	User №58 cannot be recommended by that method
+User №59:
+	48
+User №60:
+	518
+User №61:
+	User №61 cannot be recommended by that method
+User №62:
+	{98: 0, 235: 0, 66: 0, 69: 0, 294: 0, 136: 0, 490: 0, 619: 0, 162: 0, 238: 0, 624: 0, 498: 0, 243: 0, 597: 0, 601: 0, 28: 0, 93: 0, 94: 0}
+User №63:
+	48
+User №64:
+	0
+User №65:
+	User №65 cannot be recommended by that method
+User №66:
+	{288: 0, 320: 0, 258: 0, 533: 0, 278: 0, 408: 0, 169: 0}
+User №67:
+	User №67 cannot be recommended by that method
+User №68:
+	User №68 cannot be recommended by that method
+User №69:
+	User №69 cannot be recommended by that method
+User №70:
+	User №70 cannot be recommended by that method
+User №71:
+	{56: 0, 214: 0, 118: 0, 568: 0, 11: 0, 62: 0, 47: 0}
+User №72:
+	User №72 cannot be recommended by that method
+User №73:
+	User №73 cannot be recommended by that method
+User №74:
+	0
+User №75:
+	132
+User №76:
+	User №76 cannot be recommended by that method
+User №78:
+	User №78 cannot be recommended by that method
+User №79:
+	User №79 cannot be recommended by that method
+User №80:
+	User №80 cannot be recommended by that method
+User №81:
+	142
+User №82:
+	User №82 cannot be recommended by that method
+User №83:
+	User №83 cannot be recommended by that method
+User №84:
+	{80: 0, 554: 0, 581: 0, 126: 0}
+User №85:
+	User №85 cannot be recommended by that method
+User №86:
+	80
+User №87:
+	132
+User №88:
+	User №88 cannot be recommended by that method
+User №89:
+	User №89 cannot be recommended by that method
+User №90:
+	0
+User №91:
+	{80: 0, 554: 0, 581: 0, 126: 0}
+User №92:
+	User №92 cannot be recommended by that method
+User №93:
+	User №93 cannot be recommended by that method
+User №94:
+	48
+User №95:
+	170
+User №96:
+	325
+User №97:
+	80
+User №98:
+	User №98 cannot be recommended by that method
+User №99:
+	User №99 cannot be recommended by that method
+User №100:
+	User №100 cannot be recommended by that method
+User №101:
+	User №101 cannot be recommended by that method
+User №102:
+	User №102 cannot be recommended by that method
+User №103:
+	User №103 cannot be recommended by that method
+User №104:
+	0
+User №105:
+	User №105 cannot be recommended by that method
+User №106:
+	535
+User №107:
+	User №107 cannot be recommended by that method
+User №108:
+	{640: 0, 257: 0, 2: 0, 643: 0, 325: 0, 149: 0, 263: 0, 275: 0, 552: 0, 151: 0, 130: 0, 64: 0, 272: 0, 466: 0, 19: 0, 90: 0, 277: 0, 471: 0, 472: 0, 228: 0, 602: 0, 413: 0, 414: 0, 159: 0, 587: 0, 261: 0, 549: 0, 38: 0, 232: 0, 41: 0, 362: 0, 18: 0, 622: 0, 561: 0, 563: 0, 565: 0, 376: 0, 507: 0, 444: 0, 125: 0, 394: 0, 469: 0}
+User №109:
+	48
+User №110:
+	48
+User №111:
+	0
+User №112:
+	User №112 cannot be recommended by that method
+User №113:
+	48
+User №114:
+	518
+User №115:
+	User №115 cannot be recommended by that method
+User №116:
+	48
+User №117:
+	48
+User №118:
+	User №118 cannot be recommended by that method
+User №119:
+	User №119 cannot be recommended by that method
+User №120:
+	0
+User №121:
+	{80: 0, 554: 0, 581: 0, 126: 0}
+User №122:
+	{449: 0, 210: 0, 547: 0, 356: 0, 246: 0, 289: 0, 31: 0, 538: 0, 655: 0, 303: 0}
+User №123:
+	User №123 cannot be recommended by that method
+User №124:
+	User №124 cannot be recommended by that method
+User №125:
+	312
+User №126:
+	168
+User №127:
+	User №127 cannot be recommended by that method
+User №128:
+	User №128 cannot be recommended by that method
+User №129:
+	48
+User №130:
+	User №130 cannot be recommended by that method
+User №131:
+	User №131 cannot be recommended by that method
+User №132:
+	170
+User №133:
+	0
+User №134:
+	{512: 0, 67: 0, 584: 0, 474: 0, 59: 0, 77: 0, 190: 0, 351: 0}
+User №135:
+	80
+User №136:
+	132
+User №137:
+	170
+User №138:
+	48
+User №139:
+	User №139 cannot be recommended by that method
+User №140:
+	{193: 0, 450: 0, 35: 0, 548: 0, 485: 0, 390: 0, 357: 0, 200: 0, 297: 0, 330: 0, 205: 0, 207: 0, 625: 0, 497: 0, 301: 0, 72: 0, 314: 0, 540: 0, 189: 0, 543: 0}
+User №141:
+	User №141 cannot be recommended by that method
+User №142:
+	80
+User №143:
+	{43: 0, 142: 0, 326: 0, 139: 0, 621: 0, 110: 0, 463: 0}
+User №144:
+	48
+User №145:
+	170
+User №146:
+	User №146 cannot be recommended by that method
+User №147:
+	User №147 cannot be recommended by that method
+User №148:
+	{577: 0, 354: 0, 27: 0, 1: 0, 91: 0, 92: 0, 431: 0, 526: 0, 143: 0, 530: 0, 435: 0, 372: 0, 53: 0, 54: 0, 617: 0, 121: 0, 155: 0, 156: 0}
+User №150:
+	48
+User №151:
+	User №151 cannot be recommended by that method
+User №152:
+	User №152 cannot be recommended by that method
+User №153:
+	User №153 cannot be recommended by that method
+User №154:
+	User №154 cannot be recommended by that method
+User №155:
+	User №155 cannot be recommended by that method
+User №156:
+	429
+User №157:
+	{144: 0, 81: 0, 97: 0, 417: 0, 168: 0, 74: 0, 511: 0, 29: 0, 319: 0}
+User №158:
+	User №158 cannot be recommended by that method
+User №159:
+	User №159 cannot be recommended by that method
+User №160:
+	User №160 cannot be recommended by that method
+User №161:
+	89
+User №162:
+	User №162 cannot be recommended by that method
+User №163:
+	307
+User №164:
+	{420: 0, 455: 0, 553: 0, 522: 0, 269: 0, 559: 0, 112: 0, 595: 0, 115: 0, 309: 0, 342: 0, 152: 0, 580: 0, 508: 0, 637: 0}
+User №165:
+	48
+User №166:
+	{198: 0, 646: 0, 487: 0, 233: 0, 107: 0, 44: 0, 337: 0, 249: 0, 633: 0, 442: 0, 443: 0, 318: 0}
+User №167:
+	User №167 cannot be recommended by that method
+User №168:
+	325
+User №169:
+	User №169 cannot be recommended by that method
+User №170:
+	User №170 cannot be recommended by that method
+User №171:
+	User №171 cannot be recommended by that method
+User №172:
+	User №172 cannot be recommended by that method
+User №173:
+	48
+User №174:
+	User №174 cannot be recommended by that method
+User №175:
+	User №175 cannot be recommended by that method
+User №176:
+	User №176 cannot be recommended by that method
+User №177:
+	User №177 cannot be recommended by that method
+User №178:
+	80
+User №179:
+	User №179 cannot be recommended by that method
+User №180:
+	User №180 cannot be recommended by that method
+User №181:
+	80
+User №182:
+	User №182 cannot be recommended by that method
+User №183:
+	User №183 cannot be recommended by that method
+User №184:
+	132
+User №185:
+	48
+User №186:
+	User №186 cannot be recommended by that method
+User №187:
+	User №187 cannot be recommended by that method
+User №188:
+	User №188 cannot be recommended by that method
+User №189:
+	User №189 cannot be recommended by that method
+User №190:
+	User №190 cannot be recommended by that method
+User №191:
+	User №191 cannot be recommended by that method
+User №192:
+	User №192 cannot be recommended by that method
+User №193:
+	48
+User №194:
+	{449: 0, 210: 0, 547: 0, 356: 0, 246: 0, 289: 0, 31: 0, 538: 0, 655: 0, 303: 0}
+User №195:
+	User №195 cannot be recommended by that method
+User №196:
+	132
+User №197:
+	User №197 cannot be recommended by that method
+User №198:
+	48
+User №199:
+	325
+User №200:
+	User №200 cannot be recommended by that method
+User №201:
+	48
+User №202:
+	User №202 cannot be recommended by that method
+User №203:
+	0
+User №204:
+	User №204 cannot be recommended by that method
+User №205:
+	User №205 cannot be recommended by that method
+User №206:
+	User №206 cannot be recommended by that method
+User №207:
+	User №207 cannot be recommended by that method
+User №208:
+	User №208 cannot be recommended by that method
+User №209:
+	User №209 cannot be recommended by that method
+User №210:
+	User №210 cannot be recommended by that method
+User №211:
+	User №211 cannot be recommended by that method
+User №212:
+	0
+User №213:
+	User №213 cannot be recommended by that method
+User №214:
+	User №214 cannot be recommended by that method
+User №215:
+	80
+User №216:
+	User №216 cannot be recommended by that method
+User №217:
+	User №217 cannot be recommended by that method
+User №218:
+	User №218 cannot be recommended by that method
+User №219:
+	48
+User №220:
+	48
+User №221:
+	48
+User №222:
+	48
+User №223:
+	User №223 cannot be recommended by that method
+User №224:
+	80
+User №225:
+	48
+User №226:
+	User №226 cannot be recommended by that method
+User №227:
+	User №227 cannot be recommended by that method
+User №228:
+	{87: 0, 329: 0, 106: 0, 535: 0, 415: 0}
+User №229:
+	80
+User №230:
+	User №230 cannot be recommended by that method
+User №231:
+	User №231 cannot be recommended by that method
+User №232:
+	0
+User №233:
+	User №233 cannot be recommended by that method
+User №234:
+	48
+User №235:
+	48
+User №236:
+	User №236 cannot be recommended by that method
+User №237:
+	132
+User №238:
+	User №238 cannot be recommended by that method
+User №239:
+	{630: 0}
+User №240:
+	User №240 cannot be recommended by that method
+User №241:
+	User №241 cannot be recommended by that method
+User №242:
+	User №242 cannot be recommended by that method
+User №243:
+	User №243 cannot be recommended by that method
+User №244:
+	User №244 cannot be recommended by that method
+User №245:
+	48
+User №246:
+	User №246 cannot be recommended by that method
+User №247:
+	User №247 cannot be recommended by that method
+User №248:
+	132
+User №249:
+	0
+User №250:
+	User №250 cannot be recommended by that method
+User №251:
+	User №251 cannot be recommended by that method
+User №252:
+	417
+User №253:
+	User №253 cannot be recommended by that method
+User №254:
+	User №254 cannot be recommended by that method
+User №255:
+	0
+User №256:
+	48
+User №257:
+	{329: 0, 106: 0, 87: 0, 614: 0, 535: 0}
+User №258:
+	325
+User №259:
+	535
+User №260:
+	User №260 cannot be recommended by that method
+User №261:
+	36
+User №262:
+	132
+User №263:
+	80
+User №264:
+	{56: 0, 214: 0, 118: 0, 568: 0, 11: 0, 62: 0, 47: 0}
+User №265:
+	User №265 cannot be recommended by that method
+User №266:
+	User №266 cannot be recommended by that method
+User №267:
+	132
+User №268:
+	User №268 cannot be recommended by that method
+User №269:
+	48
+User №270:
+	User №270 cannot be recommended by that method
+User №271:
+	0
+User №272:
+	User №272 cannot be recommended by that method
+User №273:
+	User №273 cannot be recommended by that method
+User №274:
+	User №274 cannot be recommended by that method
+User №275:
+	48
+User №276:
+	User №276 cannot be recommended by that method
+User №277:
+	User №277 cannot be recommended by that method
+User №278:
+	142
+User №279:
+	User №279 cannot be recommended by that method
+User №280:
+	48
+User №281:
+	48
+User №282:
+	User №282 cannot be recommended by that method
+User №283:
+	User №283 cannot be recommended by that method
+User №284:
+	User №284 cannot be recommended by that method
+User №285:
+	{400: 0, 307: 0, 36: 0, 229: 0, 518: 0, 292: 0, 76: 0}
+User №286:
+	{400: 0, 307: 0, 36: 0, 229: 0, 518: 0, 292: 0, 76: 0}
+User №287:
+	48
+User №288:
+	48
+User №289:
+	User №289 cannot be recommended by that method
+User №290:
+	80
+User №291:
+	User №291 cannot be recommended by that method
+User №292:
+	{393: 0}
+User №293:
+	48
+User №294:
+	48
+User №295:
+	132
+User №296:
+	User №296 cannot be recommended by that method
+User №297:
+	{410: 0, 645: 0, 350: 0}
+User №298:
+	User №298 cannot be recommended by that method
+User №299:
+	User №299 cannot be recommended by that method
+User №300:
+	User №300 cannot be recommended by that method
+User №301:
+	User №301 cannot be recommended by that method
+User №302:
+	48
+User №303:
+	User №303 cannot be recommended by that method
+User №304:
+	User №304 cannot be recommended by that method
+User №305:
+	{32: 0, 197: 0, 23: 0}
+User №306:
+	132
+User №307:
+	{616: 0, 226: 0, 610: 0, 650: 0}
+User №308:
+	User №308 cannot be recommended by that method
+User №309:
+	325
+User №310:
+	User №310 cannot be recommended by that method
+User №311:
+	User №311 cannot be recommended by that method
+User №312:
+	48
+User №313:
+	132
+User №314:
+	User №314 cannot be recommended by that method
+User №315:
+	User №315 cannot be recommended by that method
+User №316:
+	User №316 cannot be recommended by that method
+User №317:
+	User №317 cannot be recommended by that method
+User №318:
+	User №318 cannot be recommended by that method
+User №319:
+	User №319 cannot be recommended by that method
+User №320:
+	535
+User №321:
+	{56: 0, 214: 0, 118: 0, 568: 0, 11: 0, 62: 0, 47: 0}
+User №322:
+	User №322 cannot be recommended by that method
+User №323:
+	User №323 cannot be recommended by that method
+User №324:
+	User №324 cannot be recommended by that method
+User №325:
+	{0: 0, 554: 0, 581: 0, 126: 0}
+User №326:
+	User №326 cannot be recommended by that method
+User №327:
+	User №327 cannot be recommended by that method
+User №328:
+	User №328 cannot be recommended by that method
+User №329:
+	User №329 cannot be recommended by that method
+User №330:
+	User №330 cannot be recommended by that method
+User №331:
+	132
+User №332:
+	{640: 0, 257: 0, 2: 0, 643: 0, 325: 0, 149: 0, 263: 0, 275: 0, 552: 0, 151: 0, 130: 0, 64: 0, 272: 0, 466: 0, 19: 0, 90: 0, 277: 0, 471: 0, 472: 0, 228: 0, 602: 0, 413: 0, 414: 0, 159: 0, 587: 0, 261: 0, 549: 0, 38: 0, 232: 0, 41: 0, 362: 0, 172: 0, 18: 0, 622: 0, 561: 0, 563: 0, 565: 0, 376: 0, 187: 0, 444: 0, 125: 0, 394: 0, 469: 0}
+User №333:
+	535
+User №334:
+	User №334 cannot be recommended by that method
+User №335:
+	0
+User №336:
+	User №336 cannot be recommended by that method
+User №337:
+	{400: 0, 307: 0, 292: 0, 229: 0, 518: 0, 76: 0}
+User №338:
+	User №338 cannot be recommended by that method
+User №339:
+	User №339 cannot be recommended by that method
+User №340:
+	User №340 cannot be recommended by that method
+User №341:
+	User №341 cannot be recommended by that method
+User №342:
+	User №342 cannot be recommended by that method
+User №343:
+	User №343 cannot be recommended by that method
+User №344:
+	48
+User №345:
+	0
+User №346:
+	User №346 cannot be recommended by that method
+User №347:
+	48
+User №348:
+	User №348 cannot be recommended by that method
+User №349:
+	132
+User №350:
+	{400: 0, 307: 0, 36: 0, 229: 0, 518: 0, 292: 0, 76: 0}
+User №351:
+	User №351 cannot be recommended by that method
+User №352:
+	User №352 cannot be recommended by that method
+User №353:
+	User №353 cannot be recommended by that method
+User №354:
+	151
+User №355:
+	User №355 cannot be recommended by that method
+User №356:
+	0
+User №357:
+	48
+User №358:
+	User №358 cannot be recommended by that method
+User №359:
+	132
+User №360:
+	56
+User №361:
+	User №361 cannot be recommended by that method
+User №362:
+	48
+User №363:
+	User №363 cannot be recommended by that method
+User №364:
+	User №364 cannot be recommended by that method
+User №365:
+	User №365 cannot be recommended by that method
+User №366:
+	80
+User №367:
+	User №367 cannot be recommended by that method
+User №368:
+	0
+User №369:
+	123
+User №370:
+	User №370 cannot be recommended by that method
+User №371:
+	User №371 cannot be recommended by that method
+User №372:
+	User №372 cannot be recommended by that method
+User №373:
+	User №373 cannot be recommended by that method
+User №374:
+	48
+User №375:
+	User №375 cannot be recommended by that method
+User №376:
+	User №376 cannot be recommended by that method
+User №377:
+	170
+User №378:
+	{80: 0, 554: 0, 581: 0, 126: 0}
+User №379:
+	User №379 cannot be recommended by that method
+User №380:
+	User №380 cannot be recommended by that method
+User №381:
+	{123: 0, 214: 0, 118: 0, 56: 0, 11: 0, 62: 0}
+User №382:
+	User №382 cannot be recommended by that method
+User №383:
+	User №383 cannot be recommended by that method
+User №384:
+	48
+User №385:
+	48
+User №386:
+	48
+User №387:
+	{32: 0, 197: 0, 23: 0}
+User №388:
+	429
+User №389:
+	User №389 cannot be recommended by that method
+User №390:
+	48
+User №391:
+	170
+User №392:
+	48
+User №393:
+	User №393 cannot be recommended by that method
+User №394:
+	48
+User №395:
+	{400: 0, 307: 0, 36: 0, 229: 0, 292: 0, 76: 0}
+User №396:
+	User №396 cannot be recommended by that method
+User №397:
+	48
+User №398:
+	User №398 cannot be recommended by that method
+User №399:
+	307
+User №400:
+	48
+User №401:
+	17
+User №402:
+	{120: 0, 305: 0, 219: 0, 111: 0}
+User №403:
+	325
+User №404:
+	0
+User №405:
+	User №405 cannot be recommended by that method
+User №406:
+	User №406 cannot be recommended by that method
+User №407:
+	48
+User №408:
+	80
+User №409:
+	48
+User №410:
+	{393: 0}
+User №411:
+	User №411 cannot be recommended by that method
+User №412:
+	170
+User №413:
+	325
+User №414:
+	User №414 cannot be recommended by that method
+User №415:
+	48
+User №416:
+	User №416 cannot be recommended by that method
+User №417:
+	0
+User №418:
+	{80: 0, 554: 0, 581: 0, 126: 0}
+User №419:
+	User №419 cannot be recommended by that method
+User №420:
+	User №420 cannot be recommended by that method
+User №421:
+	User №421 cannot be recommended by that method
+User №422:
+	User №422 cannot be recommended by that method
+User №423:
+	User №423 cannot be recommended by that method
+User №424:
+	User №424 cannot be recommended by that method
+User №425:
+	User №425 cannot be recommended by that method
+User №426:
+	80
+User №427:
+	User №427 cannot be recommended by that method
+User №428:
+	User №428 cannot be recommended by that method
+User №429:
+	80
+User №430:
+	User №430 cannot be recommended by that method
+User №431:
+	User №431 cannot be recommended by that method
+User №432:
+	User №432 cannot be recommended by that method
+User №433:
+	48
+User №434:
+	325
+User №435:
+	User №435 cannot be recommended by that method
+User №436:
+	170
+User №437:
+	User №437 cannot be recommended by that method
+User №438:
+	User №438 cannot be recommended by that method
+User №439:
+	312
+User №440:
+	User №440 cannot be recommended by that method
+User №441:
+	User №441 cannot be recommended by that method
+User №442:
+	{512: 0, 351: 0, 67: 0, 190: 0, 584: 0, 474: 0, 59: 0, 173: 0, 174: 0, 77: 0}
+User №443:
+	User №443 cannot be recommended by that method
+User №444:
+	48
+User №445:
+	{128: 0, 42: 0, 578: 0, 68: 0, 182: 0, 129: 0, 492: 0, 524: 0, 397: 0, 527: 0, 82: 0, 403: 0, 215: 0, 26: 0, 557: 0, 453: 0, 353: 0, 355: 0, 484: 0, 423: 0, 105: 0, 618: 0, 295: 0, 483: 0, 429: 0, 317: 0, 359: 0, 306: 0, 371: 0, 628: 0, 501: 0, 502: 0, 57: 0, 58: 0, 253: 0, 127: 0}
+User №446:
+	{113: 0, 338: 0, 99: 0, 184: 0, 203: 0, 445: 0, 589: 0}
+User №447:
+	User №447 cannot be recommended by that method
+User №448:
+	User №448 cannot be recommended by that method
+User №449:
+	User №449 cannot be recommended by that method
+User №450:
+	{393: 0}
+User №451:
+	User №451 cannot be recommended by that method
+User №452:
+	User №452 cannot be recommended by that method
+User №453:
+	User №453 cannot be recommended by that method
+User №454:
+	User №454 cannot be recommended by that method
+User №455:
+	48
+User №456:
+	325
+User №457:
+	{192: 0, 17: 0, 555: 0}
+User №458:
+	User №458 cannot be recommended by that method
+User №459:
+	489
+User №460:
+	User №460 cannot be recommended by that method
+User №461:
+	48
+User №462:
+	36
+User №463:
+	48
+User №464:
+	0
+User №465:
+	48
+User №466:
+	User №466 cannot be recommended by that method
+User №467:
+	48
+User №468:
+	User №468 cannot be recommended by that method
+User №469:
+	48
+User №470:
+	48
+User №471:
+	0
+User №472:
+	User №472 cannot be recommended by that method
+User №473:
+	{6: 0, 198: 0, 487: 0, 233: 0, 107: 0, 44: 0, 646: 0, 337: 0, 249: 0, 633: 0, 442: 0, 282: 0, 318: 0}
+User №474:
+	132
+User №475:
+	48
+User №476:
+	196
+User №477:
+	User №477 cannot be recommended by that method
+User №478:
+	89
+User №479:
+	132
+User №480:
+	User №480 cannot be recommended by that method
+User №481:
+	User №481 cannot be recommended by that method
+User №482:
+	{198: 0, 646: 0, 487: 0, 233: 0, 44: 0, 337: 0, 249: 0, 633: 0, 442: 0, 443: 0, 282: 0, 318: 0}
+User №483:
+	170
+User №484:
+	User №484 cannot be recommended by that method
+User №485:
+	User №485 cannot be recommended by that method
+User №486:
+	48
+User №487:
+	132
+User №488:
+	36
+User №489:
+	0
+User №490:
+	User №490 cannot be recommended by that method
+User №491:
+	User №491 cannot be recommended by that method
+User №492:
+	325
+User №493:
+	132
+User №494:
+	48
+User №495:
+	{488: 0, 131: 0, 196: 0, 40: 0, 201: 0, 479: 0}
+User №496:
+	User №496 cannot be recommended by that method
+User №497:
+	0
+User №498:
+	48
+User №499:
+	0
+User №500:
+	80
+User №501:
+	User №501 cannot be recommended by that method
+User №502:
+	89
+User №503:
+	User №503 cannot be recommended by that method
+User №504:
+	User №504 cannot be recommended by that method
+User №505:
+	User №505 cannot be recommended by that method
+User №506:
+	{512: 0, 67: 0, 584: 0, 474: 0, 59: 0, 77: 0, 190: 0, 351: 0}
+User №507:
+	48
+User №508:
+	325
+User №509:
+	170
+User №510:
+	0
+User №511:
+	48
+User №512:
+	User №512 cannot be recommended by that method
+User №513:
+	User №513 cannot be recommended by that method
+User №514:
+	User №514 cannot be recommended by that method
+User №515:
+	User №515 cannot be recommended by that method
+User №516:
+	User №516 cannot be recommended by that method
+User №517:
+	48
+User №518:
+	48
+User №519:
+	User №519 cannot be recommended by that method
+User №520:
+	User №520 cannot be recommended by that method
+User №521:
+	48
+User №522:
+	132
+User №523:
+	User №523 cannot be recommended by that method
+User №524:
+	User №524 cannot be recommended by that method
+User №525:
+	User №525 cannot be recommended by that method
+User №526:
+	48
+User №527:
+	325
+User №528:
+	User №528 cannot be recommended by that method
+User №529:
+	User №529 cannot be recommended by that method
+User №530:
+	48
+User №531:
+	User №531 cannot be recommended by that method
+User №532:
+	48
+User №533:
+	User №533 cannot be recommended by that method
+User №534:
+	User №534 cannot be recommended by that method
+User №535:
+	170
+User №536:
+	{288: 0, 320: 0, 258: 0, 533: 0, 278: 0, 408: 0, 169: 0}
+User №537:
+	{139: 0, 142: 0, 43: 0, 621: 0, 110: 0, 463: 0}
+User №538:
+	User №538 cannot be recommended by that method
+User №539:
+	48
+User №540:
+	48
+User №541:
+	48
+User №542:
+	User №542 cannot be recommended by that method
+User №543:
+	User №543 cannot be recommended by that method
+User №544:
+	User №544 cannot be recommended by that method
+User №545:
+	User №545 cannot be recommended by that method
+User №546:
+	User №546 cannot be recommended by that method
+User №547:
+	User №547 cannot be recommended by that method
+User №548:
+	48
+User №549:
+	User №549 cannot be recommended by that method
+User №550:
+	User №550 cannot be recommended by that method
+User №551:
+	48
+User №552:
+	User №552 cannot be recommended by that method
+User №553:
+	132
+User №554:
+	48
+User №555:
+	User №555 cannot be recommended by that method
+User №556:
+	80
+User №557:
+	User №557 cannot be recommended by that method
+User №558:
+	304
+User №559:
+	User №559 cannot be recommended by that method
+User №560:
+	{488: 0, 131: 0, 40: 0, 201: 0, 170: 0, 479: 0}
+User №561:
+	80
+User №562:
+	48
+User №563:
+	{488: 0, 201: 0, 170: 0, 131: 0, 479: 0}
+User №564:
+	80
+User №565:
+	{339: 0, 374: 0, 79: 0}
+User №566:
+	User №566 cannot be recommended by that method
+User №567:
+	User №567 cannot be recommended by that method
+User №568:
+	User №568 cannot be recommended by that method
+User №569:
+	User №569 cannot be recommended by that method
+User №570:
+	0
+User №571:
+	User №571 cannot be recommended by that method
+User №572:
+	User №572 cannot be recommended by that method
+User №573:
+	{32: 0, 197: 0, 23: 0}
+User №574:
+	User №574 cannot be recommended by that method
+User №575:
+	{512: 0, 67: 0, 190: 0, 584: 0, 474: 0, 59: 0, 77: 0, 174: 0, 351: 0}
+User №576:
+	User №576 cannot be recommended by that method
+User №577:
+	User №577 cannot be recommended by that method
+User №578:
+	User №578 cannot be recommended by that method
+User №579:
+	User №579 cannot be recommended by that method
+User №580:
+	User №580 cannot be recommended by that method
+User №581:
+	User №581 cannot be recommended by that method
+User №582:
+	48
+User №583:
+	48
+User №584:
+	User №584 cannot be recommended by that method
+User №585:
+	48
+User №586:
+	554
+User №587:
+	User №587 cannot be recommended by that method
+User №588:
+	User №588 cannot be recommended by that method
+User №589:
+	User №589 cannot be recommended by that method
+User №590:
+	User №590 cannot be recommended by that method
+User №591:
+	132
+User №592:
+	User №592 cannot be recommended by that method
+User №593:
+	User №593 cannot be recommended by that method
+User №594:
+	User №594 cannot be recommended by that method
+User №595:
+	User №595 cannot be recommended by that method
+User №596:
+	48
+User №597:
+	89
+User №598:
+	User №598 cannot be recommended by that method
+User №599:
+	User №599 cannot be recommended by that method
+User №600:
+	{623: 0}
+User №601:
+	User №601 cannot be recommended by that method
+User №602:
+	User №602 cannot be recommended by that method
+User №603:
+	User №603 cannot be recommended by that method
+User №604:
+	196
+User №605:
+	User №605 cannot be recommended by that method
+User №606:
+	48
+User №607:
+	User №607 cannot be recommended by that method
+User №608:
+	User №608 cannot be recommended by that method
+User №609:
+	48
+User №610:
+	{144: 0, 81: 0, 97: 0, 417: 0, 74: 0, 511: 0, 29: 0, 319: 0}
+User №611:
+	48
+User №612:
+	User №612 cannot be recommended by that method
+User №613:
+	User №613 cannot be recommended by that method
+User №614:
+	48
+User №615:
+	80
+User №616:
+	User №616 cannot be recommended by that method
+User №617:
+	{56: 0, 214: 0, 118: 0, 568: 0, 11: 0, 62: 0, 47: 0}
+User №618:
+	48
+User №619:
+	132
+User №620:
+	User №620 cannot be recommended by that method
+User №621:
+	User №621 cannot be recommended by that method
+User №622:
+	User №622 cannot be recommended by that method
+User №623:
+	48
+User №624:
+	User №624 cannot be recommended by that method
+User №625:
+	User №625 cannot be recommended by that method
+User №626:
+	132
+User №627:
+	144
+User №628:
+	36
+User №629:
+	User №629 cannot be recommended by that method
+User №630:
+	48
+User №631:
+	User №631 cannot be recommended by that method
+User №632:
+	User №632 cannot be recommended by that method
+User №633:
+	User №633 cannot be recommended by that method
+User №634:
+	User №634 cannot be recommended by that method
+User №635:
+	User №635 cannot be recommended by that method
+User №636:
+	User №636 cannot be recommended by that method
+User №637:
+	User №637 cannot be recommended by that method
+User №638:
+	User №638 cannot be recommended by that method
+User №639:
+	User №639 cannot be recommended by that method
+User №640:
+	User №640 cannot be recommended by that method
+User №641:
+	User №641 cannot be recommended by that method
+User №642:
+	48
+User №643:
+	36
+User №644:
+	{144: 0, 81: 0, 97: 0, 417: 0, 168: 0, 89: 0, 74: 0, 511: 0, 29: 0, 319: 0}
+User №645:
+	User №645 cannot be recommended by that method
+User №646:
+	User №646 cannot be recommended by that method
+User №647:
+	User №647 cannot be recommended by that method
+User №648:
+	{192: 0, 17: 0, 555: 0}
+User №649:
+	User №649 cannot be recommended by that method
+User №650:
+	User №650 cannot be recommended by that method
+User №651:
+	{43: 0, 326: 0, 139: 0, 621: 0, 110: 0, 463: 0}
+User №652:
+	User №652 cannot be recommended by that method
+User №653:
+	132
+User №654:
+	0
+User №655:
+	User №655 cannot be recommended by that method
+User №656:
+	User №656 cannot be recommended by that method
+User №657:
+	User №657 cannot be recommended by that method
+User №658:
+	User №658 cannot be recommended by that method
+User №659:
+	User №659 cannot be recommended by that method
+User №660:
+	170
+User №661:
+	80
+User №662:
+	User №662 cannot be recommended by that method
+User №663:
+	132
+User №664:
+	User №664 cannot be recommended by that method
+User №665:
+	User №665 cannot be recommended by that method
+User №666:
+	{32: 0, 197: 0, 23: 0}
+User №667:
+	User №667 cannot be recommended by that method
+User №668:
+	170
+User №669:
+	User №669 cannot be recommended by that method
+User №670:
+	0
+User №671:
+	48
+User №672:
+	535
+User №673:
+	User №673 cannot be recommended by that method
+User №674:
+	0
+User №675:
+	User №675 cannot be recommended by that method
+User №676:
+	312
+User №677:
+	132
+User №678:
+	{144: 0, 81: 0, 97: 0, 417: 0, 168: 0, 89: 0, 74: 0, 511: 0, 29: 0, 319: 0}
+User №679:
+	User №679 cannot be recommended by that method
+User №680:
+	80
+User №681:
+	{144: 0, 81: 0, 97: 0, 417: 0, 168: 0, 74: 0, 511: 0, 29: 0, 319: 0}
+User №682:
+	User №682 cannot be recommended by that method
+User №683:
+	User №683 cannot be recommended by that method
+User №684:
+	48
+User №685:
+	132
+User №686:
+	48
+User №687:
+	User №687 cannot be recommended by that method
+User №688:
+	User №688 cannot be recommended by that method
+User №689:
+	0
+User №690:
+	196
+User №691:
+	0
+User №692:
+	{144: 0, 81: 0, 417: 0, 168: 0, 89: 0, 74: 0, 511: 0, 29: 0, 319: 0}
+User №693:
+	17
+User №694:
+	48
+User №695:
+	36
+User №696:
+	48
+User №697:
+	80
+User №698:
+	User №698 cannot be recommended by that method
+User №699:
+	325
+User №700:
+	132
+User №701:
+	170
+User №702:
+	0
+User №703:
+	0
+User №704:
+	48
+User №705:
+	48
+User №706:
+	User №706 cannot be recommended by that method
+User №707:
+	{32: 0, 197: 0, 23: 0}
+User №708:
+	User №708 cannot be recommended by that method
+User №709:
+	132
+User №710:
+	User №710 cannot be recommended by that method
+User №711:
+	48
+User №712:
+	48
+User №713:
+	{128: 0, 42: 0, 578: 0, 68: 0, 182: 0, 129: 0, 492: 0, 524: 0, 397: 0, 527: 0, 82: 0, 403: 0, 215: 0, 26: 0, 557: 0, 453: 0, 353: 0, 355: 0, 484: 0, 423: 0, 105: 0, 618: 0, 295: 0, 483: 0, 429: 0, 317: 0, 359: 0, 306: 0, 371: 0, 501: 0, 502: 0, 489: 0, 57: 0, 58: 0, 253: 0, 127: 0}
+User №714:
+	User №714 cannot be recommended by that method
+User №715:
+	User №715 cannot be recommended by that method
+User №716:
+	{505: 0, 623: 0}
+User №717:
+	48
+User №718:
+	48
+User №719:
+	48
+User №720:
+	User №720 cannot be recommended by that method
+User №721:
+	48
+User №722:
+	{32: 0, 197: 0, 23: 0}
+User №723:
+	48
+User №724:
+	User №724 cannot be recommended by that method
+User №725:
+	132
+User №726:
+	User №726 cannot be recommended by that method
+User №727:
+	89
+User №728:
+	48
+User №729:
+	User №729 cannot be recommended by that method
+User №730:
+	User №730 cannot be recommended by that method
+User №731:
+	{32: 0, 197: 0}
+User №732:
+	48
+User №733:
+	User №733 cannot be recommended by that method
+User №734:
+	36
+User №735:
+	48
+User №736:
+	User №736 cannot be recommended by that method
+User №737:
+	User №737 cannot be recommended by that method
+User №738:
+	80
+User №739:
+	80
+User №740:
+	User №740 cannot be recommended by that method
+User №741:
+	User №741 cannot be recommended by that method
+User №742:
+	417
+User №743:
+	User №743 cannot be recommended by that method
+User №744:
+	User №744 cannot be recommended by that method
+User №745:
+	{80: 0, 554: 0, 581: 0, 126: 0}
+User №746:
+	89
+User №747:
+	0
+User №748:
+	User №748 cannot be recommended by that method
+User №749:
+	0
+User №750:
+	User №750 cannot be recommended by that method
+User №751:
+	User №751 cannot be recommended by that method
+User №752:
+	0
+User №753:
+	48
+User №754:
+	User №754 cannot be recommended by that method
+User №755:
+	User №755 cannot be recommended by that method
+User №756:
+	User №756 cannot be recommended by that method
+User №757:
+	User №757 cannot be recommended by that method
+User №758:
+	48
+User №759:
+	0
+User №760:
+	{320: 0, 258: 0, 533: 0, 278: 0, 408: 0, 169: 0, 284: 0}
+User №761:
+	User №761 cannot be recommended by that method
+User №762:
+	170
+User №763:
+	User №763 cannot be recommended by that method
+User №764:
+	User №764 cannot be recommended by that method
+User №765:
+	48
+User №766:
+	User №766 cannot be recommended by that method
+User №767:
+	48
+User №768:
+	User №768 cannot be recommended by that method
+User №769:
+	80
+User №770:
+	User №770 cannot be recommended by that method
+User №771:
+	{144: 0, 81: 0, 97: 0, 417: 0, 168: 0, 89: 0, 74: 0, 511: 0, 29: 0, 319: 0}
+User №772:
+	{193: 0, 450: 0, 35: 0, 548: 0, 485: 0, 390: 0, 497: 0, 200: 0, 297: 0, 330: 0, 395: 0, 205: 0, 207: 0, 625: 0, 301: 0, 72: 0, 314: 0, 540: 0, 189: 0, 357: 0}
+User №773:
+	User №773 cannot be recommended by that method
+User №774:
+	User №774 cannot be recommended by that method
+User №775:
+	{329: 0, 106: 0, 87: 0, 614: 0, 535: 0}
+User №776:
+	User №776 cannot be recommended by that method
+User №777:
+	User №777 cannot be recommended by that method
+User №778:
+	User №778 cannot be recommended by that method
+User №779:
+	518
+User №780:
+	User №780 cannot be recommended by that method
+User №781:
+	80
+User №782:
+	User №782 cannot be recommended by that method
+User №783:
+	535
+User №784:
+	User №784 cannot be recommended by that method
+User №785:
+	132
+User №786:
+	User №786 cannot be recommended by that method
+User №787:
+	User №787 cannot be recommended by that method
+User №788:
+	User №788 cannot be recommended by that method
+User №789:
+	User №789 cannot be recommended by that method
+User №790:
+	48
+User №792:
+	132
+User №793:
+	48
+User №794:
+	48
+User №795:
+	48
+User №796:
+	User №796 cannot be recommended by that method
+User №797:
+	48
+User №798:
+	User №798 cannot be recommended by that method
+User №799:
+	0
+User №800:
+	User №800 cannot be recommended by that method
+User №801:
+	48
+User №802:
+	User №802 cannot be recommended by that method
+User №803:
+	48
+User №804:
+	User №804 cannot be recommended by that method
+User №805:
+	User №805 cannot be recommended by that method
+User №806:
+	User №806 cannot be recommended by that method
+User №807:
+	36
+User №808:
+	User №808 cannot be recommended by that method
+User №809:
+	User №809 cannot be recommended by that method
+User №810:
+	325
+User №811:
+	User №811 cannot be recommended by that method
+User №812:
+	User №812 cannot be recommended by that method
+User №813:
+	User №813 cannot be recommended by that method
+User №814:
+	User №814 cannot be recommended by that method
+User №815:
+	{274: 0, 419: 0, 276: 0, 101: 0, 134: 0, 218: 0, 75: 0, 138: 0, 286: 0}
+User №816:
+	User №816 cannot be recommended by that method
+User №817:
+	0
+User №818:
+	132
+User №819:
+	{420: 0, 455: 0, 553: 0, 522: 0, 269: 0, 112: 0, 595: 0, 115: 0, 309: 0, 342: 0, 503: 0, 152: 0, 580: 0, 637: 0}
+User №820:
+	48
+User №821:
+	80
+User №822:
+	80
+User №823:
+	User №823 cannot be recommended by that method
+User №824:
+	User №824 cannot be recommended by that method
+User №825:
+	132
+User №826:
+	User №826 cannot be recommended by that method
+User №827:
+	User №827 cannot be recommended by that method
+User №828:
+	User №828 cannot be recommended by that method
+User №829:
+	{577: 0, 354: 0, 27: 0, 1: 0, 91: 0, 92: 0, 431: 0, 526: 0, 143: 0, 530: 0, 435: 0, 372: 0, 53: 0, 54: 0, 617: 0, 121: 0, 155: 0, 156: 0}
+User №830:
+	User №830 cannot be recommended by that method
+User №831:
+	0
+User №832:
+	User №832 cannot be recommended by that method
+User №833:
+	User №833 cannot be recommended by that method
+User №834:
+	48
+User №835:
+	User №835 cannot be recommended by that method
+User №836:
+	48
+User №837:
+	User №837 cannot be recommended by that method
+User №838:
+	144
+User №839:
+	{43: 0, 621: 0, 110: 0, 142: 0}
+User №840:
+	User №840 cannot be recommended by that method
+User №841:
+	{144: 0, 81: 0, 97: 0, 417: 0, 168: 0, 89: 0, 74: 0, 511: 0, 29: 0, 319: 0}
+User №842:
+	48
+User №843:
+	{256: 0, 385: 0, 135: 0, 392: 0, 9: 0, 10: 0, 271: 0, 529: 0, 404: 0, 536: 0, 539: 0, 412: 0, 157: 0, 416: 0, 290: 0, 411: 0, 454: 0, 422: 0, 296: 0, 220: 0, 556: 0, 45: 0, 46: 0, 175: 0, 560: 0, 564: 0, 300: 0, 440: 0, 572: 0, 574: 0, 373: 0, 160: 0, 322: 0, 323: 0, 582: 0, 199: 0, 328: 0, 649: 0, 459: 0, 34: 0, 464: 0, 163: 0, 86: 0, 603: 0, 476: 0, 349: 0, 222: 0, 225: 0, 486: 0, 615: 0, 364: 0, 241: 0, 254: 0, 506: 0, 635: 0, 124: 0, 381: 0, 638: 0}
+User №844:
+	48
+User №845:
+	132
+User №846:
+	80
+User №847:
+	48
+User №848:
+	User №848 cannot be recommended by that method
+User №849:
+	User №849 cannot be recommended by that method
+User №850:
+	User №850 cannot be recommended by that method
+User №851:
+	{577: 0, 354: 0, 27: 0, 1: 0, 91: 0, 92: 0, 526: 0, 431: 0, 530: 0, 435: 0, 372: 0, 53: 0, 54: 0, 617: 0, 121: 0, 155: 0, 156: 0, 573: 0}
+User №852:
+	User №852 cannot be recommended by that method
+User №853:
+	80
+User №854:
+	User №854 cannot be recommended by that method
+User №855:
+	132
+User №856:
+	User №856 cannot be recommended by that method
+User №857:
+	170
+User №858:
+	User №858 cannot be recommended by that method
+User №859:
+	{104: 0}
+User №860:
+	User №860 cannot be recommended by that method
+User №861:
+	170
+User №862:
+	User №862 cannot be recommended by that method
+User №863:
+	132
+User №864:
+	User №864 cannot be recommended by that method
+User №865:
+	User №865 cannot be recommended by that method
+User №866:
+	User №866 cannot be recommended by that method
+User №867:
+	{139: 0, 142: 0, 43: 0, 621: 0, 110: 0, 463: 0}
+User №868:
+	User №868 cannot be recommended by that method
+User №869:
+	User №869 cannot be recommended by that method
+User №870:
+	132
+User №871:
+	325
+User №872:
+	User №872 cannot be recommended by that method
+User №873:
+	48
+User №874:
+	48
+User №875:
+	80
+User №876:
+	User №876 cannot be recommended by that method
+User №877:
+	132
+User №878:
+	{144: 0, 81: 0, 97: 0, 417: 0, 168: 0, 89: 0, 74: 0, 511: 0, 29: 0, 319: 0}
+User №879:
+	User №879 cannot be recommended by that method
+User №880:
+	48
+User №881:
+	0
+User №882:
+	User №882 cannot be recommended by that method
+User №883:
+	User №883 cannot be recommended by that method
+User №884:
+	User №884 cannot be recommended by that method
+User №885:
+	132
+User №886:
+	User №886 cannot be recommended by that method
+User №887:
+	User №887 cannot be recommended by that method
+User №888:
+	User №888 cannot be recommended by that method
+User №889:
+	{512: 0, 351: 0, 67: 0, 190: 0, 584: 0, 474: 0, 59: 0, 173: 0, 174: 0, 77: 0}
+User №890:
+	48
+User №891:
+	User №891 cannot be recommended by that method
+User №892:
+	User №892 cannot be recommended by that method
+User №893:
+	132
+User №894:
+	User №894 cannot be recommended by that method
+User №895:
+	User №895 cannot be recommended by that method
+User №896:
+	User №896 cannot be recommended by that method
+User №897:
+	{304: 0, 449: 0, 210: 0, 547: 0, 356: 0, 246: 0, 289: 0, 31: 0, 538: 0, 655: 0, 303: 0}
+User №898:
+	48
+User №899:
+	132
+User №900:
+	0
+User №901:
+	User №901 cannot be recommended by that method
+User №902:
+	48
+User №903:
+	User №903 cannot be recommended by that method
+User №904:
+	{410: 0, 350: 0}
+User №905:
+	User №905 cannot be recommended by that method
+User №906:
+	User №906 cannot be recommended by that method
+User №907:
+	132
+User №908:
+	285
+User №909:
+	User №909 cannot be recommended by that method
+User №910:
+	48
+User №911:
+	User №911 cannot be recommended by that method
+User №912:
+	User №912 cannot be recommended by that method
+User №913:
+	36
+User №914:
+	0
+User №915:
+	User №915 cannot be recommended by that method
+User №916:
+	User №916 cannot be recommended by that method
+User №917:
+	48
+User №918:
+	80
+User №919:
+	User №919 cannot be recommended by that method
+User №920:
+	User №920 cannot be recommended by that method
+User №921:
+	48
+User №922:
+	User №922 cannot be recommended by that method
+User №923:
+	User №923 cannot be recommended by that method
+User №924:
+	415
+User №925:
+	80
+User №926:
+	User №926 cannot be recommended by that method
+User №927:
+	User №927 cannot be recommended by that method
+User №928:
+	User №928 cannot be recommended by that method
+User №929:
+	48
+User №930:
+	{512: 0, 351: 0, 67: 0, 190: 0, 584: 0, 474: 0, 59: 0, 173: 0, 174: 0, 77: 0}
+User №931:
+	0
+User №932:
+	132
+User №933:
+	{192: 0, 17: 0, 555: 0}
+User №934:
+	{488: 0, 131: 0, 40: 0, 201: 0, 170: 0, 479: 0}
+User №935:
+	User №935 cannot be recommended by that method
+User №936:
+	User №936 cannot be recommended by that method
+User №937:
+	User №937 cannot be recommended by that method
+User №938:
+	User №938 cannot be recommended by that method
+User №939:
+	48
+User №940:
+	User №940 cannot be recommended by that method
+User №941:
+	User №941 cannot be recommended by that method
+User №942:
+	User №942 cannot be recommended by that method
+User №943:
+	48
+User №944:
+	48
+User №945:
+	User №945 cannot be recommended by that method
+User №946:
+	User №946 cannot be recommended by that method
+User №947:
+	User №947 cannot be recommended by that method
+User №948:
+	{32: 0, 197: 0, 23: 0}
+User №949:
+	{43: 0, 142: 0, 326: 0, 139: 0, 621: 0, 110: 0, 463: 0}
+User №950:
+	User №950 cannot be recommended by that method
+User №951:
+	0
+User №952:
+	0
+User №953:
+	User №953 cannot be recommended by that method
+User №954:
+	48
+User №955:
+	48
+User №956:
+	User №956 cannot be recommended by that method
+User №957:
+	User №957 cannot be recommended by that method
+User №958:
+	User №958 cannot be recommended by that method
+User №959:
+	132
+User №960:
+	48
+User №961:
+	132
+User №962:
+	User №962 cannot be recommended by that method
+User №963:
+	User №963 cannot be recommended by that method
+User №964:
+	User №964 cannot be recommended by that method
+User №965:
+	User №965 cannot be recommended by that method
+User №966:
+	{505: 0, 255: 0}
+User №967:
+	User №967 cannot be recommended by that method
+User №968:
+	User №968 cannot be recommended by that method
+User №969:
+	User №969 cannot be recommended by that method
+User №970:
+	User №970 cannot be recommended by that method
+User №971:
+	48
+User №972:
+	48
+User №973:
+	User №973 cannot be recommended by that method
+User №974:
+	132
+User №975:
+	User №975 cannot be recommended by that method
+User №976:
+	User №976 cannot be recommended by that method
+User №978:
+	48
+User №979:
+	48
+User №980:
+	325
+User №981:
+	80
+User №982:
+	80
+User №983:
+	80
+User №984:
+	{81: 0, 97: 0, 417: 0, 168: 0, 74: 0, 511: 0, 29: 0, 319: 0}
+User №985:
+	132
+User №986:
+	User №986 cannot be recommended by that method
+User №987:
+	48
+User №988:
+	User №988 cannot be recommended by that method
+User №989:
+	{400: 0, 307: 0, 292: 0, 229: 0, 518: 0, 36: 0}
+User №990:
+	132
+User №991:
+	{505: 0, 623: 0, 255: 0}
+User №992:
+	User №992 cannot be recommended by that method
+User №993:
+	{577: 0, 354: 0, 27: 0, 1: 0, 91: 0, 92: 0, 431: 0, 143: 0, 530: 0, 435: 0, 372: 0, 53: 0, 54: 0, 617: 0, 121: 0, 155: 0, 156: 0, 573: 0}
+User №994:
+	User №994 cannot be recommended by that method
+User №995:
+	User №995 cannot be recommended by that method
+User №996:
+	User №996 cannot be recommended by that method
+User №997:
+	48
+User №998:
+	132
+User №999:
+	User №999 cannot be recommended by that method
+User №1000:
+	415
+User №1001:
+	48
+User №1002:
+	User №1002 cannot be recommended by that method
+User №1003:
+	48
+User №1004:
+	User №1004 cannot be recommended by that method
+User №1005:
+	User №1005 cannot be recommended by that method
+User №1006:
+	User №1006 cannot be recommended by that method
+User №1007:
+	User №1007 cannot be recommended by that method
+User №1008:
+	User №1008 cannot be recommended by that method
+User №1009:
+	User №1009 cannot be recommended by that method
+User №1010:
+	User №1010 cannot be recommended by that method
+User №1011:
+	132
